@@ -12,3 +12,6 @@ strengths <- c("1. Distributed version control system",
                  "2. Efficient handling of large projects")
 weaknesses <- c("1. Steeper learning curve for beginners",
                 "2. Potential for merge conflicts in collaborative projects")
+
+install.packages("knitr")
+install.packages("rmarkdown")
